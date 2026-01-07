@@ -14,12 +14,13 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🧐 About Me
+> *"보이지 않는 곳에서 시스템의 흐름을 만듭니다."*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmg921118-ux&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmg921118-ux&layout=compact&theme=radical" height="180em" />
-</div>
+- 🔭 **Focus**: 안정적인 서버 아키텍처와 효율적인 데이터 처리에 집중합니다.
+- 🌱 **Learning**: 새로운 기술 트렌드를 읽고 비즈니스 로직에 녹여내는 것을 즐깁니다.
+- ⚡ **Goal**: 유지보수하기 좋고, 확장 가능한 코드를 지향합니다.
+
 <br/>
 
 ## 🛠 Tech Stack
