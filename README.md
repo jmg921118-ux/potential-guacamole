@@ -53,8 +53,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=potential-guacamole&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potential-guacamole&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmg921118-ux&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmg921118-ux&layout=compact&theme=radical" height="180em" />
 </div>
 
 <br/>
